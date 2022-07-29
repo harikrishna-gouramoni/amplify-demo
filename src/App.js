@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <br />
-      Welcome to React App deployed in AppSync !!
+      Welcome to React Applciation !!
+      This app is deployed in AWS - AppSync service !
     </div>
   );
 }
